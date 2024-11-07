@@ -22,4 +22,6 @@ else:
 
 # OUTPUT
 
+
+
    ![pratcie](https://github.com/user-attachments/assets/f9853f3f-c990-4f7d-8597-71fc01c70dde) 
